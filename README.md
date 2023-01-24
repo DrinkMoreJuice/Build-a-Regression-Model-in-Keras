@@ -6,3 +6,5 @@ There are 4 files (A), (B), (C), (D) for each of the assesment questions.
 In this project, I build a regression model using the Keras library to model data about concrete compressive strength.
 The data can be found here: https://cocl.us/concrete_data or in this github repository.
 
+RegressionModel.py is the Regression Model for (B) case.
+
